@@ -1,0 +1,10 @@
+body{
+    font-family: 'poppins', sans-serif;
+}
+.banner {
+    background-image: url(/abstract-colorful-low-poly-triangle-shapes_361591-3185.avif);
+    padding: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
